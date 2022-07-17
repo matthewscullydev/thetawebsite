@@ -49,6 +49,7 @@ h1.title {
     
 }
 
+
 .btn-group button {
      
     table-layout: fixed;
@@ -58,10 +59,11 @@ h1.title {
     display: block;
     text-decoration: none;
     color: black;
-    padding: 1em;
+    padding: 1em 6em;
     border:none;
     border-radius:10em;
-    width: 100%;
+    width: 35%;
+    font-family: 'FF Parango';
 }
 
 
