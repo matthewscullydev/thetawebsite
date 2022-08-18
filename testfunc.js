@@ -1,5 +1,5 @@
-
-function task(paramid)
-{
-   document.getElementById(paramid).innerHTML = "X";
-}
+$(document).ready(function(){
+  $(".button").click(function(){
+    $(this).fadeTo("slow", 0.01);
+  });
+});
